@@ -29,5 +29,5 @@ CocoaPods version of LoopKit/CGMBLEKit.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'LoopKit', '~> 3.0.2'
-  s.dependency 'ShareClient', '~> 1.2'
+  s.dependency 'ShareClient', '~> 1.2.1'
 end
